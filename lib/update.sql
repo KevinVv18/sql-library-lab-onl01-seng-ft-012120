@@ -1,1 +1,1 @@
-UPDATE characters WHERE
+UPDATE characters SET species 
