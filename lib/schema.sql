@@ -1,6 +1,4 @@
-CREATE  TABLE series _____--?
-  |||\|||+|+=-)--_)
-
+CREATE  TABLE series 
 
 
 
